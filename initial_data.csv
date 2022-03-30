@@ -1,4 +1,4 @@
-"","name","structure_name","psen2","snca","tnf","trem2","clu","psen1","mapt","apoe","app","age","sex","dsm_iv_clinical_diagnosis","nincds_arda_diagnosis"
+"rowid","name","structure_name","psen2","snca","tnf","trem2","clu","psen1","mapt","apoe","app","age","sex","dsm_iv_clinical_diagnosis","nincds_arda_diagnosis"
 "1","H14.09.001","hippocampus (hippocampal formation)",-0.9174,0.8302,0,0.7319,1.3604,-0.3028,1.4137,0.9988,0.3233,"90-94","M","No Dementia","No Dementia"
 "2","H14.09.001","parietal neocortex",-0.574,-0.4254,0,-0.5766,0.1269,-1.13,0.1177,-0.1704,-0.3662,"90-94","M","No Dementia","No Dementia"
 "3","H14.09.001","white matter of forebrain",-4.2029,-3.7373,0,1.0268,-0.5397,2.3078,-1.9815,0.8037,-0.2849,"90-94","M","No Dementia","No Dementia"
