@@ -1,4 +1,4 @@
-,name,structure_name,psen2,snca,tnf,trem2,clu,psen1,mapt,apoe,app,age,sex,dsm_iv_clinical_diagnosis,dementia
+rowid,name,structure_name,psen2,snca,tnf,trem2,clu,psen1,mapt,apoe,app,age,sex,dsm_iv_clinical_diagnosis,dementia
 5,H14.09.002,temporal neocortex,1.422,0.6894,-0.3237,-0.7868,-0.8649,-0.2129,0.5227,-0.7628,1.6669,90-94,M,Alzheimer's Disease Type,y
 6,H14.09.002,hippocampus (hippocampal formation),0.5927,0.6806,0.438,1.6822,1.9663,-0.1811,0.4638,1.8402,0.4894,90-94,M,Alzheimer's Disease Type,y
 7,H14.09.002,white matter of forebrain,0.1007,0.9913,0.2571,0.0723,-0.1853,0.5468,0.5794,0.009,1.9069,90-94,M,Alzheimer's Disease Type,y
